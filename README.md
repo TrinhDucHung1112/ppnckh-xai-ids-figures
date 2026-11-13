@@ -44,4 +44,4 @@ Mỗi file lưu ảnh PNG ở thư mục cha (đường dẫn `../Hinh_...png` t
 
 ## Tác giả
 
-[ĐIỀN: Họ tên – MSSV – lớp]
+Trịnh Đức Hùng - 3125560020
